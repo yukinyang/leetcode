@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="源文件\双周赛">
+      <UniqueIdentifier>{b549a30a-014f-4c22-8c95-495331e82264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\周赛">
+      <UniqueIdentifier>{ecd551ef-5e26-46d3-95be-62e46e3681e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="no.496.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指23.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指26.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指33.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指35.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指36.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指37.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指38.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指39.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指41.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指43.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指44.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指45.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指46.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指47.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指48.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指49.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指50.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指51.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指52.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指53.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指54.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指55.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指56.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指57.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指60.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指61.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指62.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指63.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指65.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指66.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指67.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指69.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指70.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指71.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指72.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指73.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指74.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指75.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指76.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指77.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指78.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指79.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指80.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指81.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指82.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指83.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指84.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指85.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指86.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指87.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指88.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指89.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指90.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指91.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指92.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指93.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指94.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指95.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指32_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指68_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.301.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指68_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.869.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.231.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.47.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.335.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.260.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指59_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.500.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指59_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.575.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.237.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指32_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.407.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.367.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1218.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.268.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.598.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.299.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.859.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.488.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.799.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1377.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.495.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.629.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no375.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.520.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.677.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.319.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.391.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.318.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.563.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.397.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.594.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.384.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.423.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.458.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.700.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.519.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.438.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.786.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.400.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指19_S_dp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1446.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.506.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.23.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客_虾皮_3题全过.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.84.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客_华为1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.383.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客_拼多多.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1816.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.35.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.53.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.70.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.2096.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.58.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.689.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.278.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.217.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.509.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1137.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.794.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.746.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.88.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.977.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.189.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.748.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.283.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.167.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.350.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.121.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.198.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.213.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.740.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.911.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.344.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.557.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.566.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.118.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.55.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.45.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67双周赛1.cpp">
+      <Filter>源文件\双周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="67双周赛2.cpp">
+      <Filter>源文件\双周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="67双周赛3.cpp">
+      <Filter>源文件\双周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="67双周赛4.cpp">
+      <Filter>源文件\双周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="no.709.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.918.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.876.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="271周赛1.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="271周赛2.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="271周赛3.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="271周赛4.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="267周赛1.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="267周赛2.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="267周赛3.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="267周赛4.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="269周赛1.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="269周赛2.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="269周赛3.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="269周赛4.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="270周赛1.cpp">
+      <Filter>源文件\周赛</Filter>
+    </ClCompile>
+    <ClCompile Include="no.19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.73.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.36.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指58_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.567.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.387.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.242.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.152.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.1567.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="no.630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
